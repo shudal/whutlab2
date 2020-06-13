@@ -11,7 +11,10 @@ class Msg {
   int msg_id;
   int client_id;
   std::string msg;
-  Msg(int cid, std::string s) : client_id(cid), msg(std::move(s)) {};
+  bool sended;
+  Msg(int cid, std::string s) : client_id(cid), msg(std::move(s)){
+                                                    sended = false;
+                                                };
 };
 
 #endif//UNTITLED8_SRC_UTILITY_MSG_H_

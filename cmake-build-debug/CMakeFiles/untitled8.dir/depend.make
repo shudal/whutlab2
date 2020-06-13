@@ -1297,6 +1297,7 @@ CMakeFiles/untitled8.dir/main.cpp.obj: D:/install/mingwsecond/5.12.8/mingw73_64/
 CMakeFiles/untitled8.dir/main.cpp.obj: D:/install/mingwsecond/5.12.8/mingw73_64/include/QtGui/qwindowdefs.h
 CMakeFiles/untitled8.dir/main.cpp.obj: D:/install/mingwsecond/5.12.8/mingw73_64/include/QtGui/qwindowdefs_win.h
 CMakeFiles/untitled8.dir/main.cpp.obj: D:/install/mingwsecond/5.12.8/mingw73_64/include/QtWidgets/QApplication
+CMakeFiles/untitled8.dir/main.cpp.obj: D:/install/mingwsecond/5.12.8/mingw73_64/include/QtWidgets/QLabel
 CMakeFiles/untitled8.dir/main.cpp.obj: D:/install/mingwsecond/5.12.8/mingw73_64/include/QtWidgets/QLineEdit
 CMakeFiles/untitled8.dir/main.cpp.obj: D:/install/mingwsecond/5.12.8/mingw73_64/include/QtWidgets/QMainWindow
 CMakeFiles/untitled8.dir/main.cpp.obj: D:/install/mingwsecond/5.12.8/mingw73_64/include/QtWidgets/QVBoxLayout
@@ -1305,6 +1306,7 @@ CMakeFiles/untitled8.dir/main.cpp.obj: D:/install/mingwsecond/5.12.8/mingw73_64/
 CMakeFiles/untitled8.dir/main.cpp.obj: D:/install/mingwsecond/5.12.8/mingw73_64/include/QtWidgets/qdesktopwidget.h
 CMakeFiles/untitled8.dir/main.cpp.obj: D:/install/mingwsecond/5.12.8/mingw73_64/include/QtWidgets/qframe.h
 CMakeFiles/untitled8.dir/main.cpp.obj: D:/install/mingwsecond/5.12.8/mingw73_64/include/QtWidgets/qgridlayout.h
+CMakeFiles/untitled8.dir/main.cpp.obj: D:/install/mingwsecond/5.12.8/mingw73_64/include/QtWidgets/qlabel.h
 CMakeFiles/untitled8.dir/main.cpp.obj: D:/install/mingwsecond/5.12.8/mingw73_64/include/QtWidgets/qlayout.h
 CMakeFiles/untitled8.dir/main.cpp.obj: D:/install/mingwsecond/5.12.8/mingw73_64/include/QtWidgets/qlayoutitem.h
 CMakeFiles/untitled8.dir/main.cpp.obj: D:/install/mingwsecond/5.12.8/mingw73_64/include/QtWidgets/qlineedit.h
@@ -2607,6 +2609,7 @@ CMakeFiles/untitled8.dir/src/ui/window/MainWindow.cpp.obj: D:/install/mingwsecon
 CMakeFiles/untitled8.dir/src/ui/window/MainWindow.cpp.obj: D:/install/mingwsecond/5.12.8/mingw73_64/include/QtGui/qvector2d.h
 CMakeFiles/untitled8.dir/src/ui/window/MainWindow.cpp.obj: D:/install/mingwsecond/5.12.8/mingw73_64/include/QtGui/qwindowdefs.h
 CMakeFiles/untitled8.dir/src/ui/window/MainWindow.cpp.obj: D:/install/mingwsecond/5.12.8/mingw73_64/include/QtGui/qwindowdefs_win.h
+CMakeFiles/untitled8.dir/src/ui/window/MainWindow.cpp.obj: D:/install/mingwsecond/5.12.8/mingw73_64/include/QtWidgets/QLabel
 CMakeFiles/untitled8.dir/src/ui/window/MainWindow.cpp.obj: D:/install/mingwsecond/5.12.8/mingw73_64/include/QtWidgets/QLineEdit
 CMakeFiles/untitled8.dir/src/ui/window/MainWindow.cpp.obj: D:/install/mingwsecond/5.12.8/mingw73_64/include/QtWidgets/QMainWindow
 CMakeFiles/untitled8.dir/src/ui/window/MainWindow.cpp.obj: D:/install/mingwsecond/5.12.8/mingw73_64/include/QtWidgets/QPushButton
@@ -2615,6 +2618,7 @@ CMakeFiles/untitled8.dir/src/ui/window/MainWindow.cpp.obj: D:/install/mingwsecon
 CMakeFiles/untitled8.dir/src/ui/window/MainWindow.cpp.obj: D:/install/mingwsecond/5.12.8/mingw73_64/include/QtWidgets/qboxlayout.h
 CMakeFiles/untitled8.dir/src/ui/window/MainWindow.cpp.obj: D:/install/mingwsecond/5.12.8/mingw73_64/include/QtWidgets/qframe.h
 CMakeFiles/untitled8.dir/src/ui/window/MainWindow.cpp.obj: D:/install/mingwsecond/5.12.8/mingw73_64/include/QtWidgets/qgridlayout.h
+CMakeFiles/untitled8.dir/src/ui/window/MainWindow.cpp.obj: D:/install/mingwsecond/5.12.8/mingw73_64/include/QtWidgets/qlabel.h
 CMakeFiles/untitled8.dir/src/ui/window/MainWindow.cpp.obj: D:/install/mingwsecond/5.12.8/mingw73_64/include/QtWidgets/qlayout.h
 CMakeFiles/untitled8.dir/src/ui/window/MainWindow.cpp.obj: D:/install/mingwsecond/5.12.8/mingw73_64/include/QtWidgets/qlayoutitem.h
 CMakeFiles/untitled8.dir/src/ui/window/MainWindow.cpp.obj: D:/install/mingwsecond/5.12.8/mingw73_64/include/QtWidgets/qlineedit.h
@@ -3924,12 +3928,14 @@ CMakeFiles/untitled8.dir/untitled8_autogen/mocs_compilation.cpp.obj: D:/install/
 CMakeFiles/untitled8.dir/untitled8_autogen/mocs_compilation.cpp.obj: D:/install/mingwsecond/5.12.8/mingw73_64/include/QtGui/qvector2d.h
 CMakeFiles/untitled8.dir/untitled8_autogen/mocs_compilation.cpp.obj: D:/install/mingwsecond/5.12.8/mingw73_64/include/QtGui/qwindowdefs.h
 CMakeFiles/untitled8.dir/untitled8_autogen/mocs_compilation.cpp.obj: D:/install/mingwsecond/5.12.8/mingw73_64/include/QtGui/qwindowdefs_win.h
+CMakeFiles/untitled8.dir/untitled8_autogen/mocs_compilation.cpp.obj: D:/install/mingwsecond/5.12.8/mingw73_64/include/QtWidgets/QLabel
 CMakeFiles/untitled8.dir/untitled8_autogen/mocs_compilation.cpp.obj: D:/install/mingwsecond/5.12.8/mingw73_64/include/QtWidgets/QLineEdit
 CMakeFiles/untitled8.dir/untitled8_autogen/mocs_compilation.cpp.obj: D:/install/mingwsecond/5.12.8/mingw73_64/include/QtWidgets/QMainWindow
 CMakeFiles/untitled8.dir/untitled8_autogen/mocs_compilation.cpp.obj: D:/install/mingwsecond/5.12.8/mingw73_64/include/QtWidgets/QVBoxLayout
 CMakeFiles/untitled8.dir/untitled8_autogen/mocs_compilation.cpp.obj: D:/install/mingwsecond/5.12.8/mingw73_64/include/QtWidgets/qboxlayout.h
 CMakeFiles/untitled8.dir/untitled8_autogen/mocs_compilation.cpp.obj: D:/install/mingwsecond/5.12.8/mingw73_64/include/QtWidgets/qframe.h
 CMakeFiles/untitled8.dir/untitled8_autogen/mocs_compilation.cpp.obj: D:/install/mingwsecond/5.12.8/mingw73_64/include/QtWidgets/qgridlayout.h
+CMakeFiles/untitled8.dir/untitled8_autogen/mocs_compilation.cpp.obj: D:/install/mingwsecond/5.12.8/mingw73_64/include/QtWidgets/qlabel.h
 CMakeFiles/untitled8.dir/untitled8_autogen/mocs_compilation.cpp.obj: D:/install/mingwsecond/5.12.8/mingw73_64/include/QtWidgets/qlayout.h
 CMakeFiles/untitled8.dir/untitled8_autogen/mocs_compilation.cpp.obj: D:/install/mingwsecond/5.12.8/mingw73_64/include/QtWidgets/qlayoutitem.h
 CMakeFiles/untitled8.dir/untitled8_autogen/mocs_compilation.cpp.obj: D:/install/mingwsecond/5.12.8/mingw73_64/include/QtWidgets/qlineedit.h

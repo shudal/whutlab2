@@ -8,6 +8,7 @@
 #include <src/include/Config.h>
 
 #include <Qt>
+#include <QtWidgets/QLabel>
 #include <QtWidgets/QLineEdit>
 #include <QtWidgets/QMainWindow>
 #include <QtWidgets/QVBoxLayout>
@@ -30,13 +31,17 @@ class MainWindow : public QObject{
  private:
   int client_count = 0;
   std::vector<Msg> to_send_msg;
+  std::vector<std::string> rece_msg;
   std::unique_ptr<QLineEdit> lep;
   int msg_id = 0;
+  QLabel *label;
 
   void setupUI();
   std::string make_daytime_string();
+  void add_rece_msg(std::string);
+  void print(std::string);
 
-  public slots:
+ public slots:
   void send_msg();
 
 };

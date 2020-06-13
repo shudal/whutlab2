@@ -17,25 +17,27 @@ string
 C:/Users/perci/CLionProjects/untitled8/src/ui/window/MainWindow.cpp
 MainWindow.h
 C:/Users/perci/CLionProjects/untitled8/src/ui/window/MainWindow.h
-ctime
+QObject
 -
 QtWidgets/QLineEdit
+-
+QtWidgets/QPushButton
+-
+chrono
+-
+ctime
 -
 thread
 -
 unordered_map
--
-chrono
--
-QtWidgets/QPushButton
--
-QObject
 -
 
 C:/Users/perci/CLionProjects/untitled8/src/ui/window/MainWindow.h
 src/include/Config.h
 -
 Qt
+-
+QtWidgets/QLabel
 -
 QtWidgets/QLineEdit
 -
@@ -15886,6 +15888,10 @@ D:/install/mingwsecond/5.12.8/mingw73_64/include/QtGui/qwindowdefs_win.h
 QtGui/qtguiglobal.h
 -
 
+D:/install/mingwsecond/5.12.8/mingw73_64/include/QtWidgets/QLabel
+qlabel.h
+D:/install/mingwsecond/5.12.8/mingw73_64/include/QtWidgets/qlabel.h
+
 D:/install/mingwsecond/5.12.8/mingw73_64/include/QtWidgets/QLineEdit
 qlineedit.h
 D:/install/mingwsecond/5.12.8/mingw73_64/include/QtWidgets/qlineedit.h
@@ -15936,6 +15942,12 @@ QtWidgets/qlayout.h
 QtWidgets/qwidget.h
 -
 limits.h
+-
+
+D:/install/mingwsecond/5.12.8/mingw73_64/include/QtWidgets/qlabel.h
+QtWidgets/qtwidgetsglobal.h
+-
+QtWidgets/qframe.h
 -
 
 D:/install/mingwsecond/5.12.8/mingw73_64/include/QtWidgets/qlayout.h
