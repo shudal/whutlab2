@@ -1,0 +1,84 @@
+{
+	"BUILD_DIR" : "C:/Users/perci/CLionProjects/untitled8/cmake-build-debug/untitled8_autogen",
+	"CMAKE_BINARY_DIR" : "C:/Users/perci/CLionProjects/untitled8/cmake-build-debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "C:/Users/perci/CLionProjects/untitled8/cmake-build-debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "C:/Users/perci/CLionProjects/untitled8",
+	"CMAKE_EXECUTABLE" : "C:/Program Files/JetBrains/CLion 2020.1.1/bin/cmake/win/bin/cmake.exe",
+	"CMAKE_SOURCE_DIR" : "C:/Users/perci/CLionProjects/untitled8",
+	"HEADERS" : 
+	[
+		[
+			"C:/Users/perci/CLionProjects/untitled8/src/include/Config.h",
+			"MU",
+			"7PH6M6IPMC/moc_Config.cpp"
+		],
+		[
+			"C:/Users/perci/CLionProjects/untitled8/src/ui/window/MainWindow.h",
+			"MU",
+			"WS2RLJ6GGL/moc_MainWindow.cpp"
+		]
+	],
+	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
+	"INCLUDE_DIR" : "C:/Users/perci/CLionProjects/untitled8/cmake-build-debug/untitled8_autogen/include",
+	"MOC_COMPILATION_FILE" : "C:/Users/perci/CLionProjects/untitled8/cmake-build-debug/untitled8_autogen/mocs_compilation.cpp",
+	"MOC_DEFINITIONS" : [ "QT_CORE_LIB", "QT_GUI_LIB", "QT_WIDGETS_LIB" ],
+	"MOC_DEPEND_FILTERS" : 
+	[
+		[
+			"Q_PLUGIN_METADATA",
+			"[\n][ \t]*Q_PLUGIN_METADATA[ \t]*\\([^\\)]*FILE[ \t]*\"([^\"]+)\""
+		]
+	],
+	"MOC_INCLUDES" : 
+	[
+		"C:/Users/perci/CLionProjects/untitled8/cmake-build-debug",
+		"C:/Users/perci/CLionProjects/untitled8",
+		"D:/install/boost",
+		"D:/install/mingwsecond/5.12.8/mingw73_64/include",
+		"D:/install/mingwsecond/5.12.8/mingw73_64/include/QtCore",
+		"D:/install/mingwsecond/5.12.8/mingw73_64/mkspecs/win32-g++",
+		"D:/install/mingwsecond/5.12.8/mingw73_64/include/QtWidgets",
+		"D:/install/mingwsecond/5.12.8/mingw73_64/include/QtGui",
+		"D:/install/mingwsecond/5.12.8/mingw73_64/include/QtANGLE",
+		"D:/install/mingwsecond/Tools/mingw730_64/lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++",
+		"D:/install/mingwsecond/Tools/mingw730_64/lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/x86_64-w64-mingw32",
+		"D:/install/mingwsecond/Tools/mingw730_64/lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/backward",
+		"D:/install/mingwsecond/Tools/mingw730_64/lib/gcc/x86_64-w64-mingw32/7.3.0/include",
+		"D:/install/mingwsecond/Tools/mingw730_64/lib/gcc/x86_64-w64-mingw32/7.3.0/include-fixed",
+		"D:/install/mingwsecond/Tools/mingw730_64/x86_64-w64-mingw32/include"
+	],
+	"MOC_MACRO_NAMES" : [ "Q_OBJECT", "Q_GADGET", "Q_NAMESPACE" ],
+	"MOC_OPTIONS" : [],
+	"MOC_PATH_PREFIX" : true,
+	"MOC_PREDEFS_CMD" : 
+	[
+		"D:/install/mingwsecond/Tools/mingw730_64/bin/g++.exe",
+		"-dM",
+		"-E",
+		"-c",
+		"C:/Program Files/JetBrains/CLion 2020.1.1/bin/cmake/win/share/cmake-3.16/Modules/CMakeCXXCompilerABI.cpp"
+	],
+	"MOC_PREDEFS_FILE" : "C:/Users/perci/CLionProjects/untitled8/cmake-build-debug/untitled8_autogen/moc_predefs.h",
+	"MOC_RELAXED_MODE" : false,
+	"MOC_SKIP" : [],
+	"MULTI_CONFIG" : false,
+	"PARALLEL" : 2,
+	"PARSE_CACHE_FILE" : "C:/Users/perci/CLionProjects/untitled8/cmake-build-debug/CMakeFiles/untitled8_autogen.dir/ParseCache.txt",
+	"QT_MOC_EXECUTABLE" : "D:/install/mingwsecond/5.12.8/mingw73_64/bin/moc.exe",
+	"QT_UIC_EXECUTABLE" : "D:/install/mingwsecond/5.12.8/mingw73_64/bin/uic.exe",
+	"QT_VERSION_MAJOR" : 5,
+	"SETTINGS_FILE" : "C:/Users/perci/CLionProjects/untitled8/cmake-build-debug/CMakeFiles/untitled8_autogen.dir/AutogenUsed.txt",
+	"SOURCES" : 
+	[
+		[ "C:/Users/perci/CLionProjects/untitled8/main.cpp", "MU" ],
+		[
+			"C:/Users/perci/CLionProjects/untitled8/src/ui/window/MainWindow.cpp",
+			"MU"
+		]
+	],
+	"UIC_OPTIONS" : [],
+	"UIC_SEARCH_PATHS" : [],
+	"UIC_SKIP" : [],
+	"UIC_UI_FILES" : [],
+	"VERBOSITY" : 0
+}

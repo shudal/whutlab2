@@ -1,0 +1,31 @@
+cmake_minimum_required(VERSION 3.16)
+project(untitled8)
+
+set(CMAKE_CXX_STANDARD 17)
+set(CMAKE_PREFIX_PATH )
+set(CMAKE_INCLUDE_CURRENT_DIR ON)
+set(CMAKE_AUTOMOC ON)
+set(CMAKE_AUTOUIC ON)
+set(CMAKE_AUTORCC ON)
+set(CMAKE_PREFIX_PATH "D:\\install\\mingwsecond\\5.12.8\\mingw73_64\\")
+
+find_package(Qt5 COMPONENTS Widgets REQUIRED)
+
+set(BOOST_ROOT "D:\\install\\boost")
+set(Boost_USE_STATIC_LIBS OFF)
+set(Boost_USE_MULTITHREADED ON)
+set(Boost_USE_STATIC_RUNTIME OFF)
+find_package(Boost 1.73.0)
+if(NOT Boost_FOUND)
+message(FATAL_ERROR "Could not find boost!")
+endif()
+include_directories(${Boost_INCLUDE_DIRS})
+
+add_executable(untitled8 main.cpp src/ui/window/MainWindow.cpp src/ui/window/MainWindow.h src/ui/window/MainWindow.cpp src/ui/window/MainWindow.h src/include/Config.h)
+target_link_libraries(untitled8 Qt5::Widgets)
+qt5_use_modules(untitled8 Core Widgets Gui)
+
+target_link_libraries(untitled8 ${Boost_LIBRARIES})
+if(MINGW)
+    target_link_libraries(untitled8 ws2_32)
+endif()

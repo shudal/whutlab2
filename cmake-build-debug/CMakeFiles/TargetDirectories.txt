@@ -1,0 +1,4 @@
+C:/Users/perci/CLionProjects/untitled8/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/perci/CLionProjects/untitled8/cmake-build-debug/CMakeFiles/untitled8.dir
+C:/Users/perci/CLionProjects/untitled8/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/perci/CLionProjects/untitled8/cmake-build-debug/CMakeFiles/untitled8_autogen.dir

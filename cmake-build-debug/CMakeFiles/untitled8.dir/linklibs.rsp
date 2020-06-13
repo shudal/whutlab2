@@ -1,0 +1,1 @@
+ D:/install/mingwsecond/5.12.8/mingw73_64/lib/libQt5Widgetsd.a D:/install/mingwsecond/5.12.8/mingw73_64/lib/libQt5Guid.a -lws2_32 D:/install/mingwsecond/5.12.8/mingw73_64/lib/libQt5Cored.a -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 

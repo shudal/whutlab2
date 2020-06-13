@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="untitled8" targetName="untitled8_autogen" />
+      <config projectName="untitled8" targetName="untitled8" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="59a1de88-94d5-469a-bcc2-a9d10858f20b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="ProjectId" id="1dFHa9Yhp5fiPOzonwdfhmgRuSa" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="cf.advertisement.text.overridden" value="true" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="settings.editor.selected.configurable" value="CMakeSettings" />
+  </component>
+  <component name="RunManager" selected="CMake Application.untitled8">
+    <configuration name="untitled8" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="untitled8" TARGET_NAME="untitled8" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="untitled8" RUN_TARGET_NAME="untitled8">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="untitled8_autogen" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="untitled8" TARGET_NAME="untitled8_autogen" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="CMake Application.untitled8" />
+      <item itemvalue="CMake Application.untitled8_autogen" />
+    </list>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="59a1de88-94d5-469a-bcc2-a9d10858f20b" name="Default Changelist" comment="" />
+      <created>1592013981569</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592013981569</updated>
+      <workItem from="1592013995315" duration="4532000" />
+      <workItem from="1592021059640" duration="2747000" />
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="100" y="100" width="952" height="426" key="DiffContextDialog" timestamp="1592023941698">
+      <screen x="0" y="0" width="1152" height="680" />
+    </state>
+    <state x="100" y="100" width="952" height="426" key="DiffContextDialog/-1920.0.1097.588/0.0.1152.680@0.0.1152.680" timestamp="1592023941698" />
+    <state width="1094" height="130" key="GridCell.Tab.0.bottom" timestamp="1592023748094">
+      <screen x="0" y="0" width="1152" height="680" />
+    </state>
+    <state width="1094" height="130" key="GridCell.Tab.0.bottom/-1920.0.1097.588/0.0.1152.680@0.0.1152.680" timestamp="1592023748094" />
+    <state width="1094" height="130" key="GridCell.Tab.0.center" timestamp="1592023748094">
+      <screen x="0" y="0" width="1152" height="680" />
+    </state>
+    <state width="1094" height="130" key="GridCell.Tab.0.center/-1920.0.1097.588/0.0.1152.680@0.0.1152.680" timestamp="1592023748094" />
+    <state width="1094" height="130" key="GridCell.Tab.0.left" timestamp="1592023748093">
+      <screen x="0" y="0" width="1152" height="680" />
+    </state>
+    <state width="1094" height="130" key="GridCell.Tab.0.left/-1920.0.1097.588/0.0.1152.680@0.0.1152.680" timestamp="1592023748093" />
+    <state width="1094" height="130" key="GridCell.Tab.0.right" timestamp="1592023748094">
+      <screen x="0" y="0" width="1152" height="680" />
+    </state>
+    <state width="1094" height="130" key="GridCell.Tab.0.right/-1920.0.1097.588/0.0.1152.680@0.0.1152.680" timestamp="1592023748094" />
+    <state x="96" y="0" key="SettingsEditor" timestamp="1592022599207">
+      <screen x="0" y="0" width="1152" height="680" />
+    </state>
+    <state x="96" y="0" key="SettingsEditor/-1920.0.1097.588/0.0.1152.680@0.0.1152.680" timestamp="1592022599207" />
+    <state x="239" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1592016309628">
+      <screen x="0" y="0" width="1152" height="680" />
+    </state>
+    <state x="239" y="1" width="672" height="678" key="search.everywhere.popup/-1920.0.1097.588/0.0.1152.680@0.0.1152.680" timestamp="1592016309628" />
+  </component>
+</project>
