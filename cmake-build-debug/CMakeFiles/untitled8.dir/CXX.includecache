@@ -10,32 +10,20 @@
 string
 -
 
-../src/ui/window/MainWindow.h
-src/include/Config.h
--
-QtWidgets/QMainWindow
--
-QtWidgets/QVBoxLayout
--
-boost/asio.hpp
--
-
-C:/Users/perci/CLionProjects/untitled8/main.cpp
-iostream
--
-QtWidgets/QApplication
--
-src/ui/window/MainWindow.h
--
-
 C:/Users/perci/CLionProjects/untitled8/src/ui/window/MainWindow.cpp
 MainWindow.h
 C:/Users/perci/CLionProjects/untitled8/src/ui/window/MainWindow.h
+ctime
+-
 QtWidgets/QLineEdit
+-
+thread
 -
 
 C:/Users/perci/CLionProjects/untitled8/src/ui/window/MainWindow.h
 src/include/Config.h
+-
+string
 -
 QtWidgets/QMainWindow
 -
@@ -14920,20 +14908,6 @@ limits.h
 new
 -
 
-D:/install/mingwsecond/5.12.8/mingw73_64/include/QtCore/qcoreapplication.h
-QtCore/qglobal.h
--
-QtCore/qstring.h
--
-QtCore/qobject.h
--
-QtCore/qcoreevent.h
--
-QtCore/qeventloop.h
--
-QtCore/qscopedpointer.h
--
-
 D:/install/mingwsecond/5.12.8/mingw73_64/include/QtCore/qcoreevent.h
 QtCore/qnamespace.h
 -
@@ -14980,10 +14954,6 @@ list
 map
 -
 utility
--
-
-D:/install/mingwsecond/5.12.8/mingw73_64/include/QtCore/qeventloop.h
-QtCore/qobject.h
 -
 
 D:/install/mingwsecond/5.12.8/mingw73_64/include/QtCore/qfile.h
@@ -15634,22 +15604,6 @@ QtCore/qsharedpointer.h
 QtCore/qrect.h
 -
 
-D:/install/mingwsecond/5.12.8/mingw73_64/include/QtGui/qguiapplication.h
-QtGui/qtguiglobal.h
--
-QtCore/qcoreapplication.h
--
-QtGui/qwindowdefs.h
--
-QtGui/qinputmethod.h
--
-QtCore/qlocale.h
--
-QtCore/qpoint.h
--
-QtCore/qsize.h
--
-
 D:/install/mingwsecond/5.12.8/mingw73_64/include/QtGui/qicon.h
 QtGui/qtguiglobal.h
 -
@@ -15680,12 +15634,6 @@ QtCore/qrect.h
 QtCore/qstring.h
 -
 QtCore/qstringlist.h
--
-
-D:/install/mingwsecond/5.12.8/mingw73_64/include/QtGui/qinputmethod.h
-QtGui/qtguiglobal.h
--
-QtCore/qobject.h
 -
 
 D:/install/mingwsecond/5.12.8/mingw73_64/include/QtGui/qkeysequence.h
@@ -15906,10 +15854,6 @@ D:/install/mingwsecond/5.12.8/mingw73_64/include/QtGui/qwindowdefs_win.h
 QtGui/qtguiglobal.h
 -
 
-D:/install/mingwsecond/5.12.8/mingw73_64/include/QtWidgets/QApplication
-qapplication.h
-D:/install/mingwsecond/5.12.8/mingw73_64/include/QtWidgets/qapplication.h
-
 D:/install/mingwsecond/5.12.8/mingw73_64/include/QtWidgets/QLineEdit
 qlineedit.h
 D:/install/mingwsecond/5.12.8/mingw73_64/include/QtWidgets/qlineedit.h
@@ -15922,24 +15866,6 @@ D:/install/mingwsecond/5.12.8/mingw73_64/include/QtWidgets/QVBoxLayout
 qboxlayout.h
 D:/install/mingwsecond/5.12.8/mingw73_64/include/QtWidgets/qboxlayout.h
 
-D:/install/mingwsecond/5.12.8/mingw73_64/include/QtWidgets/qapplication.h
-QtWidgets/qtwidgetsglobal.h
--
-QtCore/qcoreapplication.h
--
-QtGui/qwindowdefs.h
--
-QtCore/qpoint.h
--
-QtCore/qsize.h
--
-QtGui/qcursor.h
--
-QtWidgets/qdesktopwidget.h
--
-QtGui/qguiapplication.h
--
-
 D:/install/mingwsecond/5.12.8/mingw73_64/include/QtWidgets/qboxlayout.h
 QtWidgets/qtwidgetsglobal.h
 -
@@ -15948,12 +15874,6 @@ QtWidgets/qlayout.h
 QtWidgets/qwidget.h
 -
 limits.h
--
-
-D:/install/mingwsecond/5.12.8/mingw73_64/include/QtWidgets/qdesktopwidget.h
-QtWidgets/qtwidgetsglobal.h
--
-QtWidgets/qwidget.h
 -
 
 D:/install/mingwsecond/5.12.8/mingw73_64/include/QtWidgets/qframe.h
