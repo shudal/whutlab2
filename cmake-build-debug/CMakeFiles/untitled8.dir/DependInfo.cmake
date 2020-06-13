@@ -6,6 +6,8 @@ set(CMAKE_DEPENDS_LANGUAGES
 set(CMAKE_DEPENDS_CHECK_CXX
   "C:/Users/perci/CLionProjects/untitled8/main.cpp" "C:/Users/perci/CLionProjects/untitled8/cmake-build-debug/CMakeFiles/untitled8.dir/main.cpp.obj"
   "C:/Users/perci/CLionProjects/untitled8/src/ui/window/MainWindow.cpp" "C:/Users/perci/CLionProjects/untitled8/cmake-build-debug/CMakeFiles/untitled8.dir/src/ui/window/MainWindow.cpp.obj"
+  "C:/Users/perci/CLionProjects/untitled8/src/utility/Client.cpp" "C:/Users/perci/CLionProjects/untitled8/cmake-build-debug/CMakeFiles/untitled8.dir/src/utility/Client.cpp.obj"
+  "C:/Users/perci/CLionProjects/untitled8/src/utility/Msg.cpp" "C:/Users/perci/CLionProjects/untitled8/cmake-build-debug/CMakeFiles/untitled8.dir/src/utility/Msg.cpp.obj"
   "C:/Users/perci/CLionProjects/untitled8/cmake-build-debug/untitled8_autogen/mocs_compilation.cpp" "C:/Users/perci/CLionProjects/untitled8/cmake-build-debug/CMakeFiles/untitled8.dir/untitled8_autogen/mocs_compilation.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")

@@ -189,6 +189,60 @@ src/ui/window/MainWindow.cpp.s:
 	$(MAKE) -f CMakeFiles\untitled8.dir\build.make CMakeFiles/untitled8.dir/src/ui/window/MainWindow.cpp.s
 .PHONY : src/ui/window/MainWindow.cpp.s
 
+src/utility/Client.obj: src/utility/Client.cpp.obj
+
+.PHONY : src/utility/Client.obj
+
+# target to build an object file
+src/utility/Client.cpp.obj:
+	$(MAKE) -f CMakeFiles\untitled8.dir\build.make CMakeFiles/untitled8.dir/src/utility/Client.cpp.obj
+.PHONY : src/utility/Client.cpp.obj
+
+src/utility/Client.i: src/utility/Client.cpp.i
+
+.PHONY : src/utility/Client.i
+
+# target to preprocess a source file
+src/utility/Client.cpp.i:
+	$(MAKE) -f CMakeFiles\untitled8.dir\build.make CMakeFiles/untitled8.dir/src/utility/Client.cpp.i
+.PHONY : src/utility/Client.cpp.i
+
+src/utility/Client.s: src/utility/Client.cpp.s
+
+.PHONY : src/utility/Client.s
+
+# target to generate assembly for a file
+src/utility/Client.cpp.s:
+	$(MAKE) -f CMakeFiles\untitled8.dir\build.make CMakeFiles/untitled8.dir/src/utility/Client.cpp.s
+.PHONY : src/utility/Client.cpp.s
+
+src/utility/Msg.obj: src/utility/Msg.cpp.obj
+
+.PHONY : src/utility/Msg.obj
+
+# target to build an object file
+src/utility/Msg.cpp.obj:
+	$(MAKE) -f CMakeFiles\untitled8.dir\build.make CMakeFiles/untitled8.dir/src/utility/Msg.cpp.obj
+.PHONY : src/utility/Msg.cpp.obj
+
+src/utility/Msg.i: src/utility/Msg.cpp.i
+
+.PHONY : src/utility/Msg.i
+
+# target to preprocess a source file
+src/utility/Msg.cpp.i:
+	$(MAKE) -f CMakeFiles\untitled8.dir\build.make CMakeFiles/untitled8.dir/src/utility/Msg.cpp.i
+.PHONY : src/utility/Msg.cpp.i
+
+src/utility/Msg.s: src/utility/Msg.cpp.s
+
+.PHONY : src/utility/Msg.s
+
+# target to generate assembly for a file
+src/utility/Msg.cpp.s:
+	$(MAKE) -f CMakeFiles\untitled8.dir\build.make CMakeFiles/untitled8.dir/src/utility/Msg.cpp.s
+.PHONY : src/utility/Msg.cpp.s
+
 untitled8_autogen/mocs_compilation.obj: untitled8_autogen/mocs_compilation.cpp.obj
 
 .PHONY : untitled8_autogen/mocs_compilation.obj
@@ -232,6 +286,12 @@ help:
 	@echo ... src/ui/window/MainWindow.obj
 	@echo ... src/ui/window/MainWindow.i
 	@echo ... src/ui/window/MainWindow.s
+	@echo ... src/utility/Client.obj
+	@echo ... src/utility/Client.i
+	@echo ... src/utility/Client.s
+	@echo ... src/utility/Msg.obj
+	@echo ... src/utility/Msg.i
+	@echo ... src/utility/Msg.s
 	@echo ... untitled8_autogen/mocs_compilation.obj
 	@echo ... untitled8_autogen/mocs_compilation.i
 	@echo ... untitled8_autogen/mocs_compilation.s

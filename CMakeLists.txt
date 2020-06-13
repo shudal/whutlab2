@@ -21,7 +21,7 @@ message(FATAL_ERROR "Could not find boost!")
 endif()
 include_directories(${Boost_INCLUDE_DIRS})
 
-add_executable(untitled8 main.cpp src/ui/window/MainWindow.cpp src/ui/window/MainWindow.h src/ui/window/MainWindow.cpp src/ui/window/MainWindow.h src/include/Config.h)
+add_executable(untitled8 main.cpp src/ui/window/MainWindow.cpp src/ui/window/MainWindow.h src/ui/window/MainWindow.cpp src/ui/window/MainWindow.h src/include/Config.h src/utility/Client.cpp src/utility/Client.h src/utility/Msg.cpp src/utility/Msg.h)
 target_link_libraries(untitled8 Qt5::Widgets)
 qt5_use_modules(untitled8 Core Widgets Gui)
 

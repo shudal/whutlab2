@@ -98,11 +98,41 @@ CMakeFiles/untitled8.dir/src/ui/window/MainWindow.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled8.dir/src/ui/window/MainWindow.cpp.s"
 	D:\install\mingwsecond\Tools\mingw730_64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\perci\CLionProjects\untitled8\src\ui\window\MainWindow.cpp -o CMakeFiles\untitled8.dir\src\ui\window\MainWindow.cpp.s
 
+CMakeFiles/untitled8.dir/src/utility/Client.cpp.obj: CMakeFiles/untitled8.dir/flags.make
+CMakeFiles/untitled8.dir/src/utility/Client.cpp.obj: CMakeFiles/untitled8.dir/includes_CXX.rsp
+CMakeFiles/untitled8.dir/src/utility/Client.cpp.obj: ../src/utility/Client.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\perci\CLionProjects\untitled8\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/untitled8.dir/src/utility/Client.cpp.obj"
+	D:\install\mingwsecond\Tools\mingw730_64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled8.dir\src\utility\Client.cpp.obj -c C:\Users\perci\CLionProjects\untitled8\src\utility\Client.cpp
+
+CMakeFiles/untitled8.dir/src/utility/Client.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled8.dir/src/utility/Client.cpp.i"
+	D:\install\mingwsecond\Tools\mingw730_64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\perci\CLionProjects\untitled8\src\utility\Client.cpp > CMakeFiles\untitled8.dir\src\utility\Client.cpp.i
+
+CMakeFiles/untitled8.dir/src/utility/Client.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled8.dir/src/utility/Client.cpp.s"
+	D:\install\mingwsecond\Tools\mingw730_64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\perci\CLionProjects\untitled8\src\utility\Client.cpp -o CMakeFiles\untitled8.dir\src\utility\Client.cpp.s
+
+CMakeFiles/untitled8.dir/src/utility/Msg.cpp.obj: CMakeFiles/untitled8.dir/flags.make
+CMakeFiles/untitled8.dir/src/utility/Msg.cpp.obj: CMakeFiles/untitled8.dir/includes_CXX.rsp
+CMakeFiles/untitled8.dir/src/utility/Msg.cpp.obj: ../src/utility/Msg.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\perci\CLionProjects\untitled8\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/untitled8.dir/src/utility/Msg.cpp.obj"
+	D:\install\mingwsecond\Tools\mingw730_64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled8.dir\src\utility\Msg.cpp.obj -c C:\Users\perci\CLionProjects\untitled8\src\utility\Msg.cpp
+
+CMakeFiles/untitled8.dir/src/utility/Msg.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled8.dir/src/utility/Msg.cpp.i"
+	D:\install\mingwsecond\Tools\mingw730_64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\perci\CLionProjects\untitled8\src\utility\Msg.cpp > CMakeFiles\untitled8.dir\src\utility\Msg.cpp.i
+
+CMakeFiles/untitled8.dir/src/utility/Msg.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled8.dir/src/utility/Msg.cpp.s"
+	D:\install\mingwsecond\Tools\mingw730_64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\perci\CLionProjects\untitled8\src\utility\Msg.cpp -o CMakeFiles\untitled8.dir\src\utility\Msg.cpp.s
+
 # Object files for target untitled8
 untitled8_OBJECTS = \
 "CMakeFiles/untitled8.dir/untitled8_autogen/mocs_compilation.cpp.obj" \
 "CMakeFiles/untitled8.dir/main.cpp.obj" \
-"CMakeFiles/untitled8.dir/src/ui/window/MainWindow.cpp.obj"
+"CMakeFiles/untitled8.dir/src/ui/window/MainWindow.cpp.obj" \
+"CMakeFiles/untitled8.dir/src/utility/Client.cpp.obj" \
+"CMakeFiles/untitled8.dir/src/utility/Msg.cpp.obj"
 
 # External object files for target untitled8
 untitled8_EXTERNAL_OBJECTS =
@@ -110,6 +140,8 @@ untitled8_EXTERNAL_OBJECTS =
 untitled8.exe: CMakeFiles/untitled8.dir/untitled8_autogen/mocs_compilation.cpp.obj
 untitled8.exe: CMakeFiles/untitled8.dir/main.cpp.obj
 untitled8.exe: CMakeFiles/untitled8.dir/src/ui/window/MainWindow.cpp.obj
+untitled8.exe: CMakeFiles/untitled8.dir/src/utility/Client.cpp.obj
+untitled8.exe: CMakeFiles/untitled8.dir/src/utility/Msg.cpp.obj
 untitled8.exe: CMakeFiles/untitled8.dir/build.make
 untitled8.exe: D:/install/mingwsecond/5.12.8/mingw73_64/lib/libQt5Widgetsd.a
 untitled8.exe: D:/install/mingwsecond/5.12.8/mingw73_64/lib/libQt5Guid.a
@@ -117,7 +149,7 @@ untitled8.exe: D:/install/mingwsecond/5.12.8/mingw73_64/lib/libQt5Cored.a
 untitled8.exe: CMakeFiles/untitled8.dir/linklibs.rsp
 untitled8.exe: CMakeFiles/untitled8.dir/objects1.rsp
 untitled8.exe: CMakeFiles/untitled8.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\perci\CLionProjects\untitled8\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX executable untitled8.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\perci\CLionProjects\untitled8\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Linking CXX executable untitled8.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\untitled8.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

@@ -131,6 +131,18 @@
 		<Unit filename="C:/Users/perci/CLionProjects/untitled8/src/ui/window/MainWindow.h">
 			<Option target="untitled8"/>
 		</Unit>
+		<Unit filename="C:/Users/perci/CLionProjects/untitled8/src/utility/Client.cpp">
+			<Option target="untitled8"/>
+		</Unit>
+		<Unit filename="C:/Users/perci/CLionProjects/untitled8/src/utility/Client.h">
+			<Option target="untitled8"/>
+		</Unit>
+		<Unit filename="C:/Users/perci/CLionProjects/untitled8/src/utility/Msg.cpp">
+			<Option target="untitled8"/>
+		</Unit>
+		<Unit filename="C:/Users/perci/CLionProjects/untitled8/src/utility/Msg.h">
+			<Option target="untitled8"/>
+		</Unit>
 		<Unit filename="C:/Users/perci/CLionProjects/untitled8/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>

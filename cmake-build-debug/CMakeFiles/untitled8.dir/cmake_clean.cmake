@@ -4,6 +4,8 @@ file(REMOVE_RECURSE
   "untitled8_autogen"
   "CMakeFiles/untitled8.dir/main.cpp.obj"
   "CMakeFiles/untitled8.dir/src/ui/window/MainWindow.cpp.obj"
+  "CMakeFiles/untitled8.dir/src/utility/Client.cpp.obj"
+  "CMakeFiles/untitled8.dir/src/utility/Msg.cpp.obj"
   "CMakeFiles/untitled8.dir/untitled8_autogen/mocs_compilation.cpp.obj"
   "libuntitled8.dll.a"
   "untitled8.exe"

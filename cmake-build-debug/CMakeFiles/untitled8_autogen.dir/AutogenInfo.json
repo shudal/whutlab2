@@ -16,6 +16,16 @@
 			"C:/Users/perci/CLionProjects/untitled8/src/ui/window/MainWindow.h",
 			"MU",
 			"WS2RLJ6GGL/moc_MainWindow.cpp"
+		],
+		[
+			"C:/Users/perci/CLionProjects/untitled8/src/utility/Client.h",
+			"MU",
+			"J4QXNF3AB7/moc_Client.cpp"
+		],
+		[
+			"C:/Users/perci/CLionProjects/untitled8/src/utility/Msg.h",
+			"MU",
+			"J4QXNF3AB7/moc_Msg.cpp"
 		]
 	],
 	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
@@ -74,7 +84,9 @@
 		[
 			"C:/Users/perci/CLionProjects/untitled8/src/ui/window/MainWindow.cpp",
 			"MU"
-		]
+		],
+		[ "C:/Users/perci/CLionProjects/untitled8/src/utility/Client.cpp", "MU" ],
+		[ "C:/Users/perci/CLionProjects/untitled8/src/utility/Msg.cpp", "MU" ]
 	],
 	"UIC_OPTIONS" : [],
 	"UIC_SEARCH_PATHS" : [],

@@ -10,6 +10,10 @@
 string
 -
 
+../src/utility/Msg.h
+string
+-
+
 C:/Users/perci/CLionProjects/untitled8/src/ui/window/MainWindow.cpp
 MainWindow.h
 C:/Users/perci/CLionProjects/untitled8/src/ui/window/MainWindow.h
@@ -19,17 +23,37 @@ QtWidgets/QLineEdit
 -
 thread
 -
+unordered_map
+-
+chrono
+-
+QtWidgets/QPushButton
+-
+QObject
+-
 
 C:/Users/perci/CLionProjects/untitled8/src/ui/window/MainWindow.h
 src/include/Config.h
 -
-string
+Qt
+-
+QtWidgets/QLineEdit
 -
 QtWidgets/QMainWindow
 -
 QtWidgets/QVBoxLayout
 -
 boost/asio.hpp
+-
+list
+-
+queue
+-
+src/utility/Msg.h
+-
+string
+-
+vector
 -
 
 D:/install/boost/boost/array.hpp
@@ -14816,6 +14840,14 @@ D:/install/boost/boost/winapi/timers.hpp
 boost/winapi/basic_types.hpp
 -
 
+D:/install/mingwsecond/5.12.8/mingw73_64/include/QtCore/QObject
+qobject.h
+D:/install/mingwsecond/5.12.8/mingw73_64/include/QtCore/qobject.h
+
+D:/install/mingwsecond/5.12.8/mingw73_64/include/QtCore/Qt
+qnamespace.h
+D:/install/mingwsecond/5.12.8/mingw73_64/include/QtCore/qnamespace.h
+
 D:/install/mingwsecond/5.12.8/mingw73_64/include/QtCore/qalgorithms.h
 QtCore/qglobal.h
 -
@@ -15862,9 +15894,23 @@ D:/install/mingwsecond/5.12.8/mingw73_64/include/QtWidgets/QMainWindow
 qmainwindow.h
 D:/install/mingwsecond/5.12.8/mingw73_64/include/QtWidgets/qmainwindow.h
 
+D:/install/mingwsecond/5.12.8/mingw73_64/include/QtWidgets/QPushButton
+qpushbutton.h
+D:/install/mingwsecond/5.12.8/mingw73_64/include/QtWidgets/qpushbutton.h
+
 D:/install/mingwsecond/5.12.8/mingw73_64/include/QtWidgets/QVBoxLayout
 qboxlayout.h
 D:/install/mingwsecond/5.12.8/mingw73_64/include/QtWidgets/qboxlayout.h
+
+D:/install/mingwsecond/5.12.8/mingw73_64/include/QtWidgets/qabstractbutton.h
+QtWidgets/qtwidgetsglobal.h
+-
+QtGui/qicon.h
+-
+QtGui/qkeysequence.h
+-
+QtWidgets/qwidget.h
+-
 
 D:/install/mingwsecond/5.12.8/mingw73_64/include/QtWidgets/qboxlayout.h
 QtWidgets/qtwidgetsglobal.h
@@ -15940,6 +15986,12 @@ QtWidgets/qtwidgetsglobal.h
 QtWidgets/qwidget.h
 -
 QtWidgets/qtabwidget.h
+-
+
+D:/install/mingwsecond/5.12.8/mingw73_64/include/QtWidgets/qpushbutton.h
+QtWidgets/qtwidgetsglobal.h
+-
+QtWidgets/qabstractbutton.h
 -
 
 D:/install/mingwsecond/5.12.8/mingw73_64/include/QtWidgets/qsizepolicy.h
